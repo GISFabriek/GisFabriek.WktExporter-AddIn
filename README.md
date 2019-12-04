@@ -6,6 +6,8 @@ The first button exports one single Geometry to a WKT string. The geometry to be
 
 The second button imports one single WKT string as a Feature into the selected Feature Layer (provided that the Feature Layer contains the correct geometry type)
 
+See https://github.com/GISFabriek/GisFabriek.WktExporter for the C# source
+
 **Licensing**
 
 MIT License
